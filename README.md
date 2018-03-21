@@ -3,7 +3,7 @@ Apply Principle Component Analysis on Human Faces
 
 ## Introduction
 I used the [Olivetti face dataset](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html). 
-It is included on the repo as "faces.csv"
+It is included in the repo as "faces.csv"
 
 
 The data contains 400 face images of size 64 x 64. In faces.csv, each row represents a face image. The first 64 values
